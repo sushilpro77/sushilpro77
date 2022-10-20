@@ -1,16 +1,14 @@
-
 <h1 align="center">Hi 👋, I'm Sushil</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sushilpro77" alt="sushilpro77" /></a> </p>
-
-- 👨‍💻 All of my projects are available at [Resume](Resume)
 
 - 📫 How to reach me **sushilpro77@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/sushilpro77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sushilpro77" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/sushilpro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="sushilpro" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -21,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sushilpro77&show_icons=true&locale=en" alt="sushilpro77" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sushilpro77&" alt="sushilpro77" /></p>
-
